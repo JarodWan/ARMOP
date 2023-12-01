@@ -21,3 +21,4 @@ echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-pa
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main' >>feeds.conf.default
 echo 'src-git adguardhome https://github.com/xiaoxiao29/luci-app-adguardhome.git' >>feeds.conf.default
 echo 'src-git amlogic https://github.com/ophub/luci-app-amlogic.git' >>feeds.conf.default
+echo 'src-git helloworld https://github.com/fw876/helloworld;main' >>feeds.conf.default
